@@ -13,8 +13,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  height: auto;
+  width: 50%;  
+  height: 200vh;
   margin: 0;
   background-color: rgb(24, 24, 24);
   padding: 0;
